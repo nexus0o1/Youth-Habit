@@ -142,4 +142,7 @@
     <string name="cd_play_button">Play</string>
     <string name="cd_pause_button">Pause</string>
     <string name="cd_stop_button">Stop</string>
+
+    <!-- Default Web Client ID for Google Sign-In -->
+    <string name="default_web_client_id" translatable="false">123456789012-zyxwvutsrqponmlkjihgfedcba.apps.googleusercontent.com</string>
 </resources>
